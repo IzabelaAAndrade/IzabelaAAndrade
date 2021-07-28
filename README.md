@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, amazing human bean! 👋
+**Long time, no see! What’s popping?**
 
-<!--
-**IzabelaAAndrade/IzabelaAAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Well, i’m not sure we’ve been properly introduced! Let me change that. My name is Izabela and i’m from Brazil! I’m currently a Junior high school student who’s pursuing an informatics technical course. 
 
-Here are some ideas to get you started:
+I’m fascinated by discoveries and love learning new things! I’m also passionate about forensic science, as well as a bookworm :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Here’s a small summary:
+
+* 📍Belo Horizonte, Brazil
+*  📚 High School Student - Júnior Year
+*  💻 Informatics Technician - Loading…
+*  🔎 Forensic Science Lover
+*  📖 Book Addict 
+
+“I hope they laugh at you […]. If people are laughing at you, it means you’re putting yourself out there to be laughed at.” 💖
+— November, 9 Colleen Hoover
