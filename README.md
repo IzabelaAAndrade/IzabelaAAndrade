@@ -8,7 +8,7 @@ I’m fascinated by discoveries and love learning new things! I’m also passion
 ## Here’s a small summary:
 
 * 📍Belo Horizonte, Brazil
-*  📚 High School Student - Júnior Year
+*  📚 High School Student - Junior Year
 *  💻 Informatics Technician - Loading…
 *  🔎 Forensic Science Lover
 *  📖 Book Addict 
