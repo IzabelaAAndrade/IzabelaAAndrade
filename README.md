@@ -1,4 +1,4 @@
-# Hi there, amazing human bean! 👋
+# Hi there, amazing human being! 👋
 **Long time, no see! What’s popping?**
 
 Well, i’m not sure we’ve been properly introduced! Let me change that. My name is Izabela and i’m from Brazil! I’m currently a Junior high school student who’s pursuing an informatics technical course. 
