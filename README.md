@@ -13,5 +13,4 @@ I’m fascinated by discoveries and love learning new things! I’m also passion
 *  🔎 Forensic Science Lover
 *  📖 Book Addict 
 
-“I hope they laugh at you […]. If people are laughing at you, it means you’re putting yourself out there to be laughed at.” 💖
-— November, 9 Colleen Hoover
+“A secret kept. A record made. The first mark she left upon the world, long before she knew the truth, that ideas are so much wilder than memories, that they long and look for ways of taking root.” - The Invisible Life of Addie LaRue, V.E. Schwab
