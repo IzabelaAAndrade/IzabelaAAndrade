@@ -18,4 +18,4 @@ I’m fascinated by discoveries and love learning new things! I'm passionate abo
 
 ## Here's a quote that inspires me 💚
 
-“A secret kept. A record made. The first mark she left upon the world, long before she knew the truth, that ideas are so much wilder than memories, that they long and look for ways of taking root.” - The Invisible Life of Addie LaRue, V.E. Schwab
+“Small places make for small lives. And some people are fine with that. They like knowing where to put their feet. But if you only walk in other people’s steps, you cannot make your own way. You cannot leave a mark.”  - The Invisible Life of Addie LaRue, V.E. Schwab
