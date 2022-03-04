@@ -1,7 +1,7 @@
 # Hi there, amazing human being! 🦕
 **Long time, no see! What’s popping?**
 
-Well, i’m not sure we’ve been properly introduced! Let me change that. My name is Izabela and i’m from Brazil! I’m just concluded my high school, as well as an informatics technical course.
+Well, i’m not sure we’ve been properly introduced! Let me change that. My name is Izabela and i’m from Brazil! I just concluded my high school, as well as an informatics technical course, and I'm about to start a Biomedical Sciences course at USP.
 
 I’m fascinated by discoveries and love learning new things! I'm passionate about forensics, biomedicine and books :)
 
