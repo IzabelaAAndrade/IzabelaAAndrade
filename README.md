@@ -9,7 +9,7 @@ I’m fascinated by discoveries and love learning new things! I'm passionate abo
 <div>
   <a href="https://github.com/IzabelaAAndrade">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IzabelaAAndrade&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabelaAAndrade&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabelaAAndrade&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </div>
 
